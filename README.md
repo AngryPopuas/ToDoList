@@ -2,7 +2,7 @@
 
 Github pages: https://angrypopuas.github.io/ToDoList/
 
-
+Задачу можно развернуть кликнув на title.
 
 Библиотеки:
 
