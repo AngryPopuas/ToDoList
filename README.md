@@ -1,3 +1,16 @@
+
+
+Github pages: https://angrypopuas.github.io/ToDoList/
+
+
+
+Библиотеки:
+
+    "antd": "^5.16.2",
+    "react-redux": "^9.1.1",
+    "typescript": "^4.9.5",
+    "@reduxjs/toolkit": "^2.2.3",
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
